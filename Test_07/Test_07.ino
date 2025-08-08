@@ -45,7 +45,3 @@ void loop() {
   inttest = millis() / 1000;
   
 }
-
-/*  Additional comment at the end
-
-*/
